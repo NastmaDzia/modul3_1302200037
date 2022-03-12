@@ -21,6 +21,8 @@ namespace modul3_1302200037
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Anggur));
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Melon));
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Semangka));
+
+            PosisiKarakterGame.Mulai();
         }
     }
 }
