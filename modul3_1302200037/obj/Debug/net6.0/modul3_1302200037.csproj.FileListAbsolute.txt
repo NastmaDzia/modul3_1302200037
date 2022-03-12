@@ -1,0 +1,15 @@
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.csproj.AssemblyReference.cache
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.AssemblyInfoInputs.cache
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.AssemblyInfo.cs
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.csproj.CoreCompileInputs.cache
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\bin\Debug\net6.0\modul3_1302200037.exe
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\bin\Debug\net6.0\modul3_1302200037.deps.json
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\bin\Debug\net6.0\modul3_1302200037.runtimeconfig.json
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\bin\Debug\net6.0\modul3_1302200037.dll
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\bin\Debug\net6.0\modul3_1302200037.pdb
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.dll
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\refint\modul3_1302200037.dll
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.pdb
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\modul3_1302200037.genruntimeconfig.cache
+C:\Users\NASTMA DZIA ULHAQUE\Documents\Kuliah TEL-U\SEMESTER 4\KPL\Praktikum\modul3_1302200037\modul3_1302200037\obj\Debug\net6.0\ref\modul3_1302200037.dll
